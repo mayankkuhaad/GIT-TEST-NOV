@@ -1,6 +1,10 @@
 .footer{
     color : blue;
+    background-color: red;
 }
 body{
     color : pink;
+}
+div{
+    border : 2px solid red;
 }
