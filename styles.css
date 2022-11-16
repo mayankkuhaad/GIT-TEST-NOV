@@ -1,9 +1,9 @@
 .footer{
     color : blue;
-    background-color: red;
+    background-color: yellow;
 }
 body{
-    color : black;
+    color : blue;
 }
 div{
     border : 2px solid red;
