@@ -1,0 +1,17 @@
+.footer{
+    color : blue;
+    background-color: red;
+}
+body{
+    color : black;
+}
+div{
+    border : 2px solid red;
+}
+header nav ul {
+    list-style: none;
+
+}
+header nav ul li {
+    display: inline-block;
+}
